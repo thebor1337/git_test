@@ -1,1 +1,1 @@
-print('Pidor')
+print('Pidor 22')
